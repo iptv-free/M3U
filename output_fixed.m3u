@@ -1,0 +1,332 @@
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, http://178.63.47.178/epg.xml,http://epg.one/epg.xml.gz,http://uztv.su/uploads/channelsarch/channels.xml"
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Super Mario 2: Galaktika 🔥" tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1777183437_mario2.jpg" group-title="Премьера",Super Mario 2: Galaktika 2026 🔥
+https://l.uzbeklar.biz/film/mario2.mp4
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Российские",Info
+https://m3u.usite.pro/1/demo.mp4
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Первый канал
+https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Россия 1
+https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Россия 24
+https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
+#EXTINF:-1 tvg-id="beInSports5.id" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",5 Канал
+https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Россия К
+https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Мир24
+https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=hls.mirtv.cdnvideo.ru&sz=256"-1 group-title="Российские",Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=hls.mirtv.cdnvideo.ru&sz=256"-1 group-title="Российские",Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",РБК
+https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",RT Doc HD
+https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
+#EXTINF:-1 tvg-id="DramaHotpot" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",TPO
+https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Вместе-РФ
+https://flussonic.mkpnet.ru/tv-33b10cf41a3fb597/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",ТВЦ
+https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",НТВ
+https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
+#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",ТВ-3
+https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Рен-ТВ
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",СТС
+https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",CTC Love
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",ТНТ 4
+https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Че!
+https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Ю
+https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",ОТР
+https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Домашний
+https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Пятнитца!
+https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
+#EXTINF:-1 tvg-id="8TV" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",8 Канал
+https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Красная Линия
+https://flussonic.mkpnet.ru/tv-3c6edc849aea7c07/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",ЛДПР ТВ
+https://flussonic.mkpnet.ru/tv-0a158c4925e60ceb/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Точка ТВ
+https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Продвижение
+https://flussonic.mkpnet.ru/tv-86cc4bfff941b275/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Суббота
+https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Российские",Успех
+https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="pervy-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Первый канал (+2)
+https://stream.zuno-tv.workers.dev/channel/9091/769dda33/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="pervy-pl4" catchup="append" tvg-name="Первый канал (+4)" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Первый канал (+4)
+https://stream.zuno-tv.workers.dev/channel/9091/n57169a4c/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="pervy-pl6" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Первый канал (+6)
+https://stream.zuno-tv.workers.dev/channel/9091/n57169a0e/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rossia1-pl1" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+1)
+https://stream.zuno-tv.workers.dev/channel/9091/n5d4bb32d/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rossia1-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/1edf0438/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rossia1-pl3" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+3)
+https://stream.zuno-tv.workers.dev/channel/9090/6226106/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rossia1-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/1edf0476/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rossia1-pl5" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+5)
+https://stream.zuno-tv.workers.dev/channel/9090/n352eff50/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rossia1-pl6" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+6)
+https://stream.zuno-tv.workers.dev/channel/9090/1edf04b4/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rossia1-pl8" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+8)
+https://stream.zuno-tv.workers.dev/channel/9090/4c6e7a31/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rossia1-pl9" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+9)
+https://stream.zuno-tv.workers.dev/channel/9090/4c6e7a50/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",НТВ (+2)
+https://stream.zuno-tv.workers.dev/channel/9091/34151a29/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",НТВ (+4)
+https://stream.zuno-tv.workers.dev/channel/9091/34151a67/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",НТВ (+7)
+https://stream.zuno-tv.workers.dev/channel/9091/34151ac4/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="5kanal-ru-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Пятый канал (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/n57169a4c/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="5kanal-ru-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Пятый канал (+6)
+https://stream.zuno-tv.workers.dev/channel/9090/n57169a0e/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия К (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/n34fdf611/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия К (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/n34fdf5d3/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия К (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/n34fdf576/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="karusel-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Карусель (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/47f7f280/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="karusel-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Карусель (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/47f7f2be/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Карусель (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/47f7f31b/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="tvcentr-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТВЦ (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/797d434f/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="tvcentr-pl7" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТВЦ (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/797d4352/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rentv-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Рен ТВ (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/n632916ea/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rentv-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Рен ТВ (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/n2272ecfb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="rentv-pl7" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Рен ТВ (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/n2272ecf8/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",СТС (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/n12cd810a/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",СТС (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/n12cd80cc/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",СТС (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/n12cd806f/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="domashny-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Домашний (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/1807d3b7/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="domashny-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Домашний (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/1807d3b9/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="domashny-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Домашний (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/1807d3bc/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТВ3 (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/5204b6f3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТВ3 (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/5204b731/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТВ3 (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/5204b78e/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="piatnica-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Пятница (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/n64007e6c/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="piatnica-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Пятница (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/n64007e2e/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="piatnica-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Пятница (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/n2bb57401/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Звезда (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/n472715db/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Звезда (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/n4727159d/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Звезда (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/n47271540/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Мир (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/n2ce68a8e/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Мир (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/n2ce68a50/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Мир (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/n2ce689f3/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТНТ (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/4e495c2f/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТНТ (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/4e495c6d/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТНТ (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/4e495cca/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Муз ТВ (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/2badb3be/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Муз ТВ (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/2badb3fc/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Муз ТВ (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/2badb459/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Ю (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/548e46a8/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Ю (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/548e46e6/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Ю (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/548e4743/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТНТ4 (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/4e495c6d/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",2x2 (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/n3b8237d6/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",2x2 (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/n3b823798/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",2x2 (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/n3b82373b/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Суббота (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/n60b4aa92/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Суббота (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/n60b4aa54/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Суббота (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/n60b4a9f7/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="che-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Че! (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/1769f2d8/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="che-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Че (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/762d7641/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 tvg-id="che-pl7" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Че! (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/762d769e/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Солнце (+2)
+https://stream.zuno-tv.workers.dev/channel/9090/n3a70dbd0/index.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Солнце (+4)
+https://stream.zuno-tv.workers.dev/channel/9090/n3a70db92/index.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.google.com/s2/favicons?domain=stream.zuno-tv.workers.dev&sz=256"-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Солнце (+7)
+https://stream.zuno-tv.workers.dev/channel/9090/n3a70db35/index.m3u8
+
+
+
+
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Фильмовые",Info
+https://m3u.usite.pro/1/demo.mp4
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",Amedia HIT
+https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",Amedia 2
+https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",viju TV1000
+https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",viju TV1000 Action
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1 tvg-id="TV1" tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",viju TV1000 Русское
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",viju+ Comedy
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",viju+ megahit
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",viju+ premiere
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",Киносат
+https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",Киносвидание
+https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",Кинохит
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",Русский Бестселлер
+https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",Русский Детектив
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",Русский Роман
+https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",.Black
+https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=flussonic.mkpnet.ru&sz=256"-1 group-title="Фильмовые",Sci Fi
+https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=185.57.68.33:8091&sz=256"-1 group-title="Фильмовые",No Name
+http://185.57.68.33:8091/255/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.smotrim.ru&sz=256"-1 group-title="Фильмовые",Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.smotrim.ru&sz=256"-1 group-title="Фильмовые",Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.smotrim.ru&sz=256"-1 group-title="Фильмовые",Смотрим 100% Праздник
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.smotrim.ru&sz=256"-1 group-title="Фильмовые",Смотрим 100% Классика
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.smotrim.ru&sz=256"-1 group-title="Фильмовые",Смотрим 100% Мужское
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=stream.smotrim.ru&sz=256"-1 group-title="Фильмовые",Смотрим 100% Любовь
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Кино Премиум HD
+https://kino.zunotv.workers.dev/dom_kino_premium_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Комедия
+https://kino.zunotv.workers.dev/komedija/index.m3u8
+#EXTINF:-1 tvg-id="AstroSportsUHD" tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Кинопремьера HD
+https://kino.zunotv.workers.dev/kinopremera_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Киномикс
+https://kino.zunotv.workers.dev/kinomiks/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="kinomiks" catchup="flussonic" catchup-days="1" group-title="Фильмовые",Киномикс HD
+https://kino.zunotv.workers.dev/kinomiks_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="kinokult" group-title="Фильмовые",КиноКульт HD
+https://kino.zunotv.workers.dev/kinokult_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Кинохит
+https://kino.zunotv.workers.dev/kinohit/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="kinoxit" group-title="Фильмовые",Кинохит HD
+https://kino.zunotv.workers.dev/kinohit_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Киносерия
+https://kino.zunotv.workers.dev/kinoseriya/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="kinoseria" group-title="Фильмовые",Киносерия HD
+https://kino.zunotv.workers.dev/kinoseriya_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Киносемья
+https://kino.zunotv.workers.dev/kinosemya/index.m3u8
+#EXTINF:-1 tvg-id="AstroSportsUHD" tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Киносемья HD
+https://kino.zunotv.workers.dev/kinosemya_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Кинокомедия
+https://kino.zunotv.workers.dev/kinokomediya/index.m3u8
+#EXTINF:-1 tvg-id="AstroSportsUHD" tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Кинокомедия HD
+https://kino.zunotv.workers.dev/kinokomediya_hd/index.m3u8
+#EXTINF:-1 tvg-id="AstroSportsUHD" tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Киносвидание HD
+https://kino.zunotv.workers.dev/kinosvidanie_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="kinouzhas" group-title="Фильмовые",Киноужас HD
+https://kino.zunotv.workers.dev/kinouzhas_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Наше новое кино
+https://kino.zunotv.workers.dev/nashe_novoe_kino/index.m3u8
+#EXTINF:-1 tvg-id="AstroSportsUHD" tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Наше новое кино HD
+https://kino.zunotv.workers.dev/nashe_novoe_kino_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Родное кино
+https://kino.zunotv.workers.dev/rodnoe_kino/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Мужское кино
+https://kino.zunotv.workers.dev/muzhskoe_kino/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="muzhskoe-kino" group-title="Фильмовые",Мужское кино HD
+https://kino.zunotv.workers.dev/muzhskoe_kino_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Индийское кино
+https://kino.zunotv.workers.dev/indiyskoe_kino/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит HD
+https://kino.zunotv.workers.dev/ntv_hit_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал HD
+https://kino.zunotv.workers.dev/ntv_serial_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Ретро ТВ
+https://kino.zunotv.workers.dev/retro/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Еврокино
+https://kino.zunotv.workers.dev/evrokino/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Русский иллюзион
+https://kino.zunotv.workers.dev/russkiy_illyuzion/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Иллюзион +
+https://kino.zunotv.workers.dev/illyuzion_plus_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Кинопоказ
+https://kino.zunotv.workers.dev/kinopokaz/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="nash-kinopokaz-hd" group-title="Фильмовые",Наш кинопоказ HD
+https://kino.zunotv.workers.dev/nash_kinopokaz_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="nashe-muzhskoe-hd" group-title="Фильмовые",Наше мужское HD
+https://kino.zunotv.workers.dev/nashe_muzhskoe_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Shot TV
+https://kino.zunotv.workers.dev/shot_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="sovkino" group-title="Фильмовые",Советское кино HD
+https://kino.zunotv.workers.dev/sovetskoe_kino/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="zee-tv" tvg-name="Индия" group-title="Фильмовые",Индия
+https://kino.zunotv.workers.dev/indiya/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 tvg-id="zee-tv" group-title="Фильмовые",Индия HD
+https://kino.zunotv.workers.dev/indiya_hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/s2/favicons?domain=kino.zunotv.workers.dev&sz=256"-1 group-title="Фильмовые",Ностальгия
+https://kino.zunotv.workers.dev/nostalgiya/index.m3u8
